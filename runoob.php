@@ -1,4 +1,4 @@
 <?php
-echo 'runoob';
+echo 'runoob-fan';
 echo 'fan';
 ?>
